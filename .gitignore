@@ -5,3 +5,17 @@
 /.vs/AlipayPlayground/v17
 /.vs/AlipayPlayground/config
 /AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.csproj.AssemblyReference.cache
+/AlipayPlayground/bin/Debug/net6.0
+/AlipayPlayground/obj/Debug/net6.0/ref
+/AlipayPlayground/obj/Debug/net6.0/refint
+/AlipayPlayground/obj/Debug/net6.0/staticwebassets
+*.cache
+/AlipayPlayground/obj/Debug/net6.0/staticwebassets.build.json
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.pdb
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.MvcApplicationPartsAssemblyInfo.cs
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.GeneratedMSBuildEditorConfig.editorconfig
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.dll
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.csproj.FileListAbsolute.txt
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.csproj.CopyComplete
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.assets.cache
+/AlipayPlayground/obj/Debug/net6.0/AlipayPlayground.AssemblyInfo.cs
