@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiann\\source\\repos\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj": {}
+    "D:\\Git\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiann\\source\\repos\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj": {
+    "D:\\Git\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiann\\source\\repos\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj",
+        "projectUniqueName": "D:\\Git\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj",
         "projectName": "AlipayPlayground",
-        "projectPath": "C:\\Users\\jiann\\source\\repos\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj",
+        "projectPath": "D:\\Git\\AlipayPlayground\\AlipayPlayground\\AlipayPlayground.csproj",
         "packagesPath": "C:\\Users\\jiann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiann\\source\\repos\\AlipayPlayground\\AlipayPlayground\\obj\\",
+        "outputPath": "D:\\Git\\AlipayPlayground\\AlipayPlayground\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
