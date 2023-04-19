@@ -1,0 +1,8 @@
+1)
+openssl req -x509 -newkey rsa:2048 -keyout jiannhuei.key -out jiannhuei.crt -days 365
+openssl pkcs12 -export -in jiannhuei.crt -inkey jiannhuei.key -out jiannhuei.pfx
+
+
+2)
+openssl req -x509 -newkey rsa:2048 -keyout jiann.key -out jiann.crt -days 365
+openssl pkcs12 -export -in jiann.crt -inkey jiann.key -out jiann.pfx
